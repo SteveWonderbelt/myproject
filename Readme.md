@@ -1,4 +1,7 @@
 ##This is the readme.
 
---first point here
+-- first point here
+
 -- second point
+
+-- third point
